@@ -11,6 +11,10 @@ void main() {
       jovem = (jovem * 0.25).floor();
     }
 
+    if (mesAtual == 13) {
+      print("\n                       QUE COMEÇEM AS CALÇAS!\n");
+    }
+
     print(
       "Fim do Mês: $mesAtual. População de coelhos: ${jovem + adulto}. Jovens: $jovem. Adultos: $adulto.",
     );
