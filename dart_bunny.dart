@@ -12,7 +12,7 @@ void main() {
     }
 
     if (mesAtual == 13) {
-      print("\n                       QUE COMEÇEM AS CALÇAS!\n");
+      print("\n                       QUE COMEÇEM AS CAÇAS!\n");
     }
 
     print(
